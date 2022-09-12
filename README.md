@@ -1,7 +1,7 @@
+<img src="https://raw.githubusercontent.com/Little-Prince-23/Little-Prince-23/main/fafa.png" alt="banner image">
+
 <h1 align="center">Hi 👋, I'm Süleyman İsmayılov</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
-
-<img src="https://raw.githubusercontent.com/Little-Prince-23/Little-Prince-23/main/aa.gif" alt="github cat">
 
 <img src="https://raw.githubusercontent.com/Little-Prince-23/Little-Prince-23/main/www.gif" alt="little-prince-23" width="500px" align="right" /> 
 
