@@ -23,6 +23,7 @@
 <p align="left">
 <a href="https://instagram.com/s.ismailoff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s.ismailoff" height="30" width="40" /></a>
 <a href="https://medium.com/@sleymanismaylov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sleymanismaylov" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/s%C3%BCleyman-ismay%C4%B1lov/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="@sleymanismaylov" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
