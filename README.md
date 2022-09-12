@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Süleyman İsmayılov</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 
-<img src="https://raw.githubusercontent.com/Little-Prince-23/Little-Prince-23/main/aa.gif" alt="banner that says Sarah hart Landolt - software developer, artist, designer">
+<img src="https://raw.githubusercontent.com/Little-Prince-23/Little-Prince-23/main/aa.gif" alt="github cat">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=little-prince-23&label=Profile%20views&color=0e75b6&style=flat" alt="little-prince-23" /> </p>
+<img src="https://raw.githubusercontent.com/Little-Prince-23/Little-Prince-23/main/www.gif" alt="little-prince-23" width="500px" align="right" /> 
 
 - 🔭 I’m currently working on **SEOTONİN**
 
